@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Feathers And Cogs]]></title>
         <description><![CDATA[Feathers And Cogs]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/feathersandcogs/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Mar 2016 12:05:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 12 Mar 2016 12:09:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/feathersandcogs/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Official Feathers And Cogs Trailer]]></title>
+            <description><![CDATA[<article><h1>Official Feathers And Cogs Trailer</h1><p>Buy tickets now: http://thegaragehighbury.com/listings/upcoming-events/31361/feathers-and-cogs-featuring-emily-dolan-davies/ DOLAN DAVIES EMBARKS ON ONE-WOMAN DRUM SHOW WITH A DIFFERENCE Former Darkness and Bryan Ferry drummer Emily Dolan Davies is to embark on an ambitious solo project which will see her move on to a theatrical stage for the first time with new show Feathers and Cogs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c7023b7fa78be2680ce05e703b15bcca11cbae7.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=uOXkaJMhD8k</link>
+            <guid isPermaLink="false">f658c3b5-7fa9-4e78-a724-02f18d6ec281</guid>
+            <pubDate>Sat, 12 Mar 2016 12:09:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf8e90ff-92e0-4542-8a20-1d5fb66fa792.jpg">]]></description>
-            <link>undefined76155b6a-1f17-4af7-a115-f97b5bec1082/index.html</link>
+            <link>https://thegrid.ai/feathersandcogs/76155b6a-1f17-4af7-a115-f97b5bec1082/index.html</link>
             <guid isPermaLink="false">76155b6a-1f17-4af7-a115-f97b5bec1082</guid>
             <pubDate>Sat, 12 Mar 2016 12:05:14 GMT</pubDate>
         </item>
