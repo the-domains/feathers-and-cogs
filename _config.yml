@@ -1,0 +1,28 @@
+name: Feathers And Cogs
+favicon: null
+layout_spectrum: 0.7581116417422891
+typography_spectrum: 0.8159451927058399
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4846580761950463
+  lightness: 0.4578179381787777
+  saturation: 0.43769428762607276
+  rhythmicContrast: 0.5523444963619113
+purpose: []
